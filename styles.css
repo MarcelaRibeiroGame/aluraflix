@@ -1,0 +1,25 @@
+body {
+    color: aqua;
+    background-color: black;
+    font-family: "Baskervville SC", serif;
+}
+
+header {
+    padding: 20px;
+    font-size: 32px;
+    border-bottom: solid 2px black;
+
+}
+div
+{
+    color: antiquewhite;
+    font-style: unset;
+}
+section
+{background: #0f07ab;
+   padding-bottom: 10px;
+   padding-top: 20px;
+   display: flex;
+   justify-content: center;
+   
+}
